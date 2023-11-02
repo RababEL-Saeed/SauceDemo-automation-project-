@@ -9,10 +9,11 @@ This reprositry contains the full automated scenario of buying a product and che
 
 
 ## Technologies Used
+- Maven Project
 - selenium webdriver 
 - coding language (java)
 - TestNG annotations
-- OOP concepts are applied 
+- OOP concepts are applied
 - For the design (POM design)
 ## Project Structure
 
