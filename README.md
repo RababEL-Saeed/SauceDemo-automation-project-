@@ -1,5 +1,5 @@
 
-# my-first-automation-project-
+# SauceDemo-automation-project-
 
 
 This reprositry contains the full automated scenario of buying a product and checkout process from e-commerce website with seleinum webdriver using java 
